@@ -61,34 +61,58 @@
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
-    "skills":[
+    "languages":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"JavaScript"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Python"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"HTML"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"CSS"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"SQL(PostgreSQL & MongoDB)"
+      }
+    ],
+    "frameworks":[
+      {
+        "name":"React"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Node"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Express"
+      },
+      {
+        "name":"jQuery"
+      },
+      {
+        "name":"P5.js"
+      },
+      {
+        "name":"Bootstrap"
+      },
+      {
+        "name":"Materialize"
+      }
+    ],
+    "tools":[
+      {
+        "name":"Git & Github"
+      },
+      {
+        "name":"Atom"
+      },
+      {
+        "name":"Visual Studio Code"
+      },
+      {
+        "name":"Heroku"
       }
     ]
   },
