@@ -121,25 +121,25 @@
     "projects": [
       {
         "title":"Open Tee",
-        "category":"My Travel Blog for my post-university travels",
+        "category":"My golf app to schedule and course info",
         "image":"opentee.png",
         "url":"https://opentee.herokuapp.com/"
       },
       {
         "title":"Paint Logic",
-        "category":"(offline now) A fighting gear company I started",
+        "category":"Redesign of Paint Logic company's page",
         "image":"paintlogic.png",
         "url":"http://www.paintlogicseattle.com"
       },
       {
         "title":"Venture",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "category":"Search for resturants by locations and write up a pakcing list for your trip",
         "image":"venture.png",
         "url":"https://venture-js.herokuapp.com/"
       },
       {
         "title":"BreakOUT",
-        "category":"A React based resume website template",
+        "category":"A Clone of the classic arcade game developed and published by Atari",
         "image":"breakout.png",
         "url":"http://www.phantony.net/BreakOUT/"
       }
