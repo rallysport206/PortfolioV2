@@ -133,7 +133,7 @@
       },
       {
         "title":"Venture",
-        "category":"Search for resturants by locations and write up a pakcing list for your trip",
+        "category":"Search for restaurants by locations and write up a packing list for your trip",
         "image":"venture.png",
         "url":"https://venture-js.herokuapp.com/"
       },
