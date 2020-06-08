@@ -113,6 +113,9 @@
         "name":"Visual Studio Code"
       },
       {
+        "name":"npm"
+      },
+      {
         "name":"Heroku"
       }
     ]
@@ -121,7 +124,7 @@
     "projects": [
       {
         "title":"Open Tee",
-        "category":"My golf app to schedule and course info",
+        "category":"Golf app to schedule and course info",
         "image":"opentee.png",
         "url":"https://opentee.herokuapp.com/"
       },
