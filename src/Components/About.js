@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Pdf from '../TonyPhan_Resume.pdf';
 
 class About extends Component {
   render() {
@@ -30,7 +31,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} target="_blank" className="button"><i className="fa fa-file-text-o" aria-hidden="true"></i>Resume</a>
+                     <a href={Pdf} target="_blank" className="button"><i className="fa fa-file-text-o" aria-hidden="true"></i>Resume</a>
                   </p>
                </div>
             </div>

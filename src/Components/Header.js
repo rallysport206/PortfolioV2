@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Pdf from '../TonyPhan_Resume.pdf';
 
 class Header extends Component {
   render() {
@@ -26,7 +27,7 @@ class Header extends Component {
 	          <li><a className="smoothscroll" href="#resume">Skills</a></li>
             <li><a className="smoothscroll" href="#portfolio">Works</a></li>
             <li><a className="smoothscroll" href="#footer">Contact</a></li>
-            <li><a href={resumeDownload} target="_blank">Resume</a></li>
+            <li><a href={Pdf} target="_blank">Resume</a></li>
          </ul>
 
       </nav>
